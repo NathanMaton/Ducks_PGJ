@@ -1,0 +1,1 @@
+This game was developed by Nathan Maton, Zaal Tonia, Nikkolai Davenport, & Sam Levine in one weekend.

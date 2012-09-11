@@ -1,0 +1,471 @@
+// !$*UTF8*$!
+{
+	4314E64D1374D03100490272 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4314E64E1374D03100490272 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4314F0401374EECC00490272 /* open */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+		);
+		argumentStrings = (
+			/PhillyGameJam/xcodetest/Ducks/Ducks/Ducks.swf,
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 4314F0411374EECC00490272 /* open */;
+		libgmallocEnabled = 0;
+		name = open;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProductDirectory>>";
+	};
+	4314F0411374EECC00490272 /* open */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = "compiled.mach-o.executable";
+		name = open;
+		path = /usr/bin/open;
+		sourceTree = "<absolute>";
+	};
+	4314F1231374F20D00490272 /* FlxBasic.as */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = FlxBasic.as;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/org/flixel/FlxBasic.as;
+		sourceTree = "<absolute>";
+	};
+	4314F1241374F20D00490272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4314F1251374F20D00490272 /* FlxGame.as */;
+		name = "FlxGame.as: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 2908;
+	};
+	4314F1251374F20D00490272 /* FlxGame.as */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = FlxGame.as;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/org/flixel/FlxGame.as;
+		sourceTree = "<absolute>";
+	};
+	4314F1271374F20D00490272 /* FlxG.as */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = FlxG.as;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/org/flixel/FlxG.as;
+		sourceTree = "<absolute>";
+	};
+	4314F1351374F27C00490272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4314F1271374F20D00490272 /* FlxG.as */;
+		name = "FlxG.as: 15";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 0;
+	};
+	4314F21413751E6400490272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4314F21513751E6400490272 /* FlxState.as */;
+		name = "FlxState.as: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 728;
+		vrLoc = 0;
+	};
+	4314F21513751E6400490272 /* FlxState.as */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = FlxState.as;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/org/flixel/FlxState.as;
+		sourceTree = "<absolute>";
+	};
+	4314F21613751E6400490272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4314F21713751E6400490272 /* FlxSound.as */;
+		name = "FlxSound.as: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1024;
+		vrLoc = 0;
+	};
+	4314F21713751E6400490272 /* FlxSound.as */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = FlxSound.as;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/org/flixel/FlxSound.as;
+		sourceTree = "<absolute>";
+	};
+	4314F22313751F5600490272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4314F1231374F20D00490272 /* FlxBasic.as */;
+		name = "FlxBasic.as: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 3395;
+	};
+	4314F22413751F5600490272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4314F22513751F5600490272 /* FlxButton.as */;
+		name = "FlxButton.as: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 762;
+		vrLoc = 5790;
+	};
+	4314F22513751F5600490272 /* FlxButton.as */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = FlxButton.as;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/org/flixel/FlxButton.as;
+		sourceTree = "<absolute>";
+	};
+	4314F22C13751FCF00490272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4314F22D13751FCF00490272 /* FlxCamera.as */;
+		name = "FlxCamera.as: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 4110;
+	};
+	4314F22D13751FCF00490272 /* FlxCamera.as */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = FlxCamera.as;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/org/flixel/FlxCamera.as;
+		sourceTree = "<absolute>";
+	};
+	4317116013AA9D26005F30C7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 43438B8E1376E33500DE72DF /* BGLib.as */;
+	};
+	4317116113AA9D26005F30C7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43438B8E1376E33500DE72DF /* BGLib.as */;
+		name = "BGLib.as: 15";
+		rLen = 0;
+		rLoc = 426;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 0;
+	};
+	43438B8E1376E33500DE72DF /* BGLib.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 478}}";
+			sepNavSelRange = "{426, 0}";
+			sepNavVisRange = "{0, 950}";
+		};
+	};
+	43438B8F1376E33500DE72DF /* Const.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 741}}";
+			sepNavSelRange = "{120, 0}";
+			sepNavVisRange = "{36, 1499}";
+		};
+	};
+	43438B901376E33500DE72DF /* Ducks.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 474}}";
+			sepNavSelRange = "{240, 0}";
+			sepNavVisRange = "{0, 291}";
+		};
+	};
+	43438C961376E33600DE72DF /* PlayState.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 3796}}";
+			sepNavSelRange = "{2110, 0}";
+			sepNavVisRange = "{1675, 1318}";
+		};
+	};
+	43438C971376E33600DE72DF /* Preloader.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 449}}";
+			sepNavSelRange = "{81, 0}";
+			sepNavVisRange = "{0, 231}";
+		};
+	};
+	43438C981376E33600DE72DF /* SoundLib.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1105}}";
+			sepNavSelRange = "{481, 0}";
+			sepNavVisRange = "{423, 1548}";
+		};
+	};
+	43438C991376E33600DE72DF /* TitleState.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 663}}";
+			sepNavSelRange = "{415, 0}";
+			sepNavVisRange = "{218, 831}";
+		};
+	};
+	43438C9A1376E33600DE72DF /* Toolbox.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 753}";
+		};
+	};
+	43438C9B1376E33600DE72DF /* WinState.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 449}}";
+			sepNavSelRange = "{388, 0}";
+			sepNavVisRange = "{0, 621}";
+			sepNavWindowFrame = "{{153, 89}, {750, 558}}";
+		};
+	};
+	43438CC31376E8BD00DE72DF /* Level01.as */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = Level01.as;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level01.as;
+		sourceTree = "<absolute>";
+	};
+	43438CD31376E8BD00DE72DF /* Level02.as */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = Level02.as;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level02.as;
+		sourceTree = "<absolute>";
+	};
+	43438CF91376EDA200DE72DF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 43438CFA1376EDA200DE72DF /* tiles_01.gif */;
+	};
+	43438CFA1376EDA200DE72DF /* tiles_01.gif */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.gif;
+		name = tiles_01.gif;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/assets/tiles_01.gif;
+		sourceTree = "<absolute>";
+	};
+	43438CFB1376EDA200DE72DF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 43438CFC1376EDA200DE72DF /* tiles_01.png */;
+	};
+	43438CFC1376EDA200DE72DF /* tiles_01.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = tiles_01.png;
+		path = /PhillyGameJam/xcodetest/Ducks/Ducks/assets/tiles_01.png;
+		sourceTree = "<absolute>";
+	};
+	43438D241376F51900DE72DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43438CD31376E8BD00DE72DF /* Level02.as */;
+		name = "Level02.as: 18";
+		rLen = 0;
+		rLoc = 362;
+		rType = 0;
+		vrLen = 1013;
+		vrLoc = 16;
+	};
+	43438D461376F8D700DE72DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43438CC31376E8BD00DE72DF /* Level01.as */;
+		name = "Level01.as: 17";
+		rLen = 0;
+		rLoc = 338;
+		rType = 0;
+		vrLen = 1026;
+		vrLoc = 1005;
+	};
+	43438E0513770EE200DE72DF /* Credits.as */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 449}}";
+			sepNavSelRange = "{390, 0}";
+			sepNavVisRange = "{0, 624}";
+		};
+	};
+	43438E0D13770F4500DE72DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43438E0513770EE200DE72DF /* Credits.as */;
+		name = "Credits.as: 18";
+		rLen = 0;
+		rLoc = 390;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 0;
+	};
+	43438E1C1377123200DE72DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43438C9B1376E33600DE72DF /* WinState.as */;
+		name = "WinState.as: 18";
+		rLen = 0;
+		rLoc = 388;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 0;
+	};
+	43438E37137741C500DE72DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43438C981376E33600DE72DF /* SoundLib.as */;
+		name = "SoundLib.as: 15";
+		rLen = 0;
+		rLoc = 481;
+		rType = 0;
+		vrLen = 1548;
+		vrLoc = 423;
+	};
+	8870579E10DAEE47004FDDD2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4314F0401374EECC00490272 /* open */;
+		activeTarget = 887057DD10DAEE8C004FDDD2 /* mxmlc */;
+		addToTargets = (
+			887057DD10DAEE8C004FDDD2 /* mxmlc */,
+		);
+		codeSenseManager = 4314E64E1374D03100490272 /* Code sense */;
+		executables = (
+			4314F0401374EECC00490272 /* open */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					721,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					355,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329947828;
+			PBXWorkspaceStateSaveDate = 329947828;
+		};
+		perUserProjectItems = {
+			4314F1241374F20D00490272 = 4314F1241374F20D00490272 /* PBXTextBookmark */;
+			4314F1351374F27C00490272 = 4314F1351374F27C00490272 /* PBXTextBookmark */;
+			4314F21413751E6400490272 = 4314F21413751E6400490272 /* PBXTextBookmark */;
+			4314F21613751E6400490272 = 4314F21613751E6400490272 /* PBXTextBookmark */;
+			4314F22313751F5600490272 = 4314F22313751F5600490272 /* PBXTextBookmark */;
+			4314F22413751F5600490272 = 4314F22413751F5600490272 /* PBXTextBookmark */;
+			4314F22C13751FCF00490272 = 4314F22C13751FCF00490272 /* PBXTextBookmark */;
+			4317116013AA9D26005F30C7 /* PBXBookmark */ = 4317116013AA9D26005F30C7 /* PBXBookmark */;
+			4317116113AA9D26005F30C7 /* PBXTextBookmark */ = 4317116113AA9D26005F30C7 /* PBXTextBookmark */;
+			43438CF91376EDA200DE72DF = 43438CF91376EDA200DE72DF /* PBXBookmark */;
+			43438CFB1376EDA200DE72DF = 43438CFB1376EDA200DE72DF /* PBXBookmark */;
+			43438D241376F51900DE72DF = 43438D241376F51900DE72DF /* PBXTextBookmark */;
+			43438D461376F8D700DE72DF = 43438D461376F8D700DE72DF /* PBXTextBookmark */;
+			43438E0D13770F4500DE72DF = 43438E0D13770F4500DE72DF /* PBXTextBookmark */;
+			43438E1C1377123200DE72DF = 43438E1C1377123200DE72DF /* PBXTextBookmark */;
+			43438E37137741C500DE72DF = 43438E37137741C500DE72DF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4314E64D1374D03100490272 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	887057DD10DAEE8C004FDDD2 /* mxmlc */ = {
+		activeExec = 0;
+	};
+}

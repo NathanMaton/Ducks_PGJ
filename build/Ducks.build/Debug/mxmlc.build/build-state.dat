@@ -1,0 +1,71 @@
+Tmxmlc
+v7
+r0
+t329948653.471183
+cCheck dependencies
+cExternalBuildToolExecution mxmlc
+
+N/Applications/MAMP/htdocs/xcodetest/flex_sdk_4.5.0.20967
+c000000004DC349E40000000000000286
+t1304644068
+s646
+
+N/Applications/MAMP/htdocs/xcodetest/flex_sdk_4.5.0.20967/bin/mxmlc
+c000000004D8C2C48000000000000059A
+t1301032008
+s1434
+
+N/Applications/MAMP/htdocs/xcodetest/flixel_2.35
+c000000004DC35E120000000000000110
+t1304649234
+s272
+
+N/Philly Game Jam/xcodetest/flex_sdk_4.5.0.20967/bin/mxmlc
+c00000000000000000000000000000000
+t2
+s0
+
+N/PhillyGameJam/xcodetest/flex_sdk_4.0/bin/mxmlc
+c000000004B75EE70000000000000059A
+t1266019952
+s1434
+
+N/PhillyGameJam/xcodetest/flex_sdk_4.5.0.20967/bin/mxmlc
+c000000004D8C2C48000000000000059A
+t1301032008
+s1434
+
+N/PhillyGameJam/xcodetest/flex_sdk_4.5/bin/mxmlc
+c000000004D8C2C48000000000000059A
+t1301032008
+s1434
+
+N/Users/nate/flex_sdk_4.0/bin/mxmlc
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/z0lly/flex_sdk_4.0/bin/mxmlc
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/flex_sdk_3.4/bin/mxmlc
+c00000000000000000000000000000000
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329948645#329948645#0(0"0(0#1#0"8590429056#0"0#
+
+CExternalBuildToolExecution mxmlc
+s329948645.606917
+e329948653.471047
+r1
+xExternalBuildToolExecution
+xmxmlc
+oLoading configuration file /PhillyGameJam/xcodetest/flex_sdk_4.0/frameworks/flex-config.xml
+o/PhillyGameJam/xcodetest/Ducks/Ducks/Ducks.swf (4602126 bytes)
+lSLF07#2@23"Run external build tool329948645#329948653#0(155"Loading configuration file /PhillyGameJam/xcodetest/flex_sdk_4.0/frameworks/flex-config.xml/PhillyGameJam/xcodetest/Ducks/Ducks/Ducks.swf (4602126 bytes)2(13@92"Loading configuration file /PhillyGameJam/xcodetest/flex_sdk_4.0/frameworks/flex-config.xml329948646#0#92#0(1@0"0(13@63"/PhillyGameJam/xcodetest/Ducks/Ducks/Ducks.swf (4602126 bytes)329948653#92#63#0(1@0"0(0#0#0"8600315808#167"    cd /PhillyGameJam/xcodetest/Ducks/Ducks    setenv ACTION     /PhillyGameJam/xcodetest/flex_sdk_4.0/bin/mxmlc -static-link-runtime-shared-libraries=true Ducks.as0#
+

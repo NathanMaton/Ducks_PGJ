@@ -1,0 +1,151 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXFileReference section */
+		4314F1451374F50100490272 /* org */ = {isa = PBXFileReference; lastKnownFileType = folder; path = org; sourceTree = "<group>"; };
+		43438B511376E33500DE72DF /* actors */ = {isa = PBXFileReference; lastKnownFileType = folder; path = actors; sourceTree = "<group>"; };
+		43438B591376E33500DE72DF /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
+		43438B8E1376E33500DE72DF /* BGLib.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BGLib.as; sourceTree = "<group>"; };
+		43438B8F1376E33500DE72DF /* Const.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Const.as; sourceTree = "<group>"; };
+		43438B901376E33500DE72DF /* Ducks.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ducks.as; sourceTree = "<group>"; };
+		43438B911376E33500DE72DF /* flixel_2.35 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = flixel_2.35; sourceTree = "<group>"; };
+		43438C8E1376E33500DE72DF /* mech */ = {isa = PBXFileReference; lastKnownFileType = folder; path = mech; sourceTree = "<group>"; };
+		43438C961376E33600DE72DF /* PlayState.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PlayState.as; sourceTree = "<group>"; };
+		43438C971376E33600DE72DF /* Preloader.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Preloader.as; sourceTree = "<group>"; };
+		43438C981376E33600DE72DF /* SoundLib.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SoundLib.as; sourceTree = "<group>"; };
+		43438C991376E33600DE72DF /* TitleState.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TitleState.as; sourceTree = "<group>"; };
+		43438C9A1376E33600DE72DF /* Toolbox.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Toolbox.as; sourceTree = "<group>"; };
+		43438C9B1376E33600DE72DF /* WinState.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WinState.as; sourceTree = "<group>"; };
+		43438CB31376E6D300DE72DF /* levels */ = {isa = PBXFileReference; lastKnownFileType = folder; path = levels; sourceTree = "<group>"; };
+		43438E0513770EE200DE72DF /* Credits.as */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Credits.as; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		8870579C10DAEE47004FDDD2 = {
+			isa = PBXGroup;
+			children = (
+				43438E0513770EE200DE72DF /* Credits.as */,
+				43438CB31376E6D300DE72DF /* levels */,
+				43438B511376E33500DE72DF /* actors */,
+				43438B591376E33500DE72DF /* assets */,
+				43438B8E1376E33500DE72DF /* BGLib.as */,
+				43438B8F1376E33500DE72DF /* Const.as */,
+				43438B901376E33500DE72DF /* Ducks.as */,
+				43438B911376E33500DE72DF /* flixel_2.35 */,
+				43438C8E1376E33500DE72DF /* mech */,
+				43438C961376E33600DE72DF /* PlayState.as */,
+				43438C971376E33600DE72DF /* Preloader.as */,
+				43438C981376E33600DE72DF /* SoundLib.as */,
+				43438C991376E33600DE72DF /* TitleState.as */,
+				43438C9A1376E33600DE72DF /* Toolbox.as */,
+				43438C9B1376E33600DE72DF /* WinState.as */,
+				4314F1451374F50100490272 /* org */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		887057DD10DAEE8C004FDDD2 /* mxmlc */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "-static-link-runtime-shared-libraries=true Ducks.as";
+			buildConfigurationList = 887057E010DAEEC5004FDDD2 /* Build configuration list for PBXLegacyTarget "mxmlc" */;
+			buildPhases = (
+			);
+			buildToolPath = /PhillyGameJam/xcodetest/flex_sdk_4.0/bin/mxmlc;
+			buildWorkingDirectory = "";
+			dependencies = (
+			);
+			name = mxmlc;
+			passBuildSettingsInEnvironment = 0;
+			productName = mxmlc;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		8870579E10DAEE47004FDDD2 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 887057A110DAEE47004FDDD2 /* Build configuration list for PBXProject "Ducks" */;
+			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 8870579C10DAEE47004FDDD2;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				887057DD10DAEE8C004FDDD2 /* mxmlc */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		8870579F10DAEE47004FDDD2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.6.sdk";
+			};
+			name = Debug;
+		};
+		887057A010DAEE47004FDDD2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.6.sdk";
+			};
+			name = Release;
+		};
+		887057DE10DAEE8C004FDDD2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = mxmlc;
+			};
+			name = Debug;
+		};
+		887057DF10DAEE8C004FDDD2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				PRODUCT_NAME = mxmlc;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		887057A110DAEE47004FDDD2 /* Build configuration list for PBXProject "Ducks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8870579F10DAEE47004FDDD2 /* Debug */,
+				887057A010DAEE47004FDDD2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		887057E010DAEEC5004FDDD2 /* Build configuration list for PBXLegacyTarget "mxmlc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				887057DE10DAEE8C004FDDD2 /* Debug */,
+				887057DF10DAEE8C004FDDD2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8870579E10DAEE47004FDDD2 /* Project object */;
+}

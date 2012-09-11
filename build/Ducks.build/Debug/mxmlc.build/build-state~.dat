@@ -1,0 +1,80 @@
+Tmxmlc
+v7
+r0
+t326558541.307303
+cCheck dependencies
+cExternalBuildToolExecution mxmlc
+
+N/Applications/MAMP/htdocs/xcodetest/flex_sdk_4.5.0.20967
+c000000004DC349E40000000000000286
+t1304644068
+s646
+
+N/Applications/MAMP/htdocs/xcodetest/flex_sdk_4.5.0.20967/bin/mxmlc
+c000000004D8C2C48000000000000059A
+t1301032008
+s1434
+
+N/Applications/MAMP/htdocs/xcodetest/flixel_2.35
+c000000004DC35E120000000000000110
+t1304649234
+s272
+
+N/Philly Game Jam/xcodetest/flex_sdk_4.5.0.20967/bin/mxmlc
+c00000000000000000000000000000000
+t2
+s0
+
+N/PhillyGameJam/xcodetest/flex_sdk_4.0/bin/mxmlc
+c000000004B75EE70000000000000059A
+t1266019952
+s1434
+
+N/PhillyGameJam/xcodetest/flex_sdk_4.5.0.20967/bin/mxmlc
+c000000004D8C2C48000000000000059A
+t1301032008
+s1434
+
+N/PhillyGameJam/xcodetest/flex_sdk_4.5/bin/mxmlc
+c000000004D8C2C48000000000000059A
+t1301032008
+s1434
+
+N/usr/local/flex_sdk_3.4/bin/mxmlc
+c00000000000000000000000000000000
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326558535#326558535#0(0"0(0#1#0"8609710688#0"0#
+
+CExternalBuildToolExecution mxmlc
+s326558535.565286
+e326558541.307172
+r0
+xExternalBuildToolExecution
+xmxmlc
+oLoading configuration file /PhillyGameJam/xcodetest/flex_sdk_4.0/frameworks/flex-config.xml
+o/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level01.as(11): col: 3: Error: unable to resolve 'assets/sam_level1.txt' for transcoding
+o
+o		[Embed(source = "assets/sam_level1.txt", mimeType = "application/octet-stream")]
+o  ^
+o
+o/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level01.as(11): col: 3: Error: Unable to transcode assets/sam_level1.txt.
+o
+o
+o  ^
+o
+o/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level03.as(8): col: 3: Error: unable to resolve 'assets/nate_level3.txt' for transcoding
+o
+o		[Embed(source = "assets/nate_level3.txt", mimeType = "application/octet-stream")]
+o  ^
+o
+o/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level03.as(8): col: 3: Error: Unable to transcode assets/nate_level3.txt.
+o
+o
+o  ^
+o
+lSLF07#2@23"Run external build tool326558535#326558541#0(867"Loading configuration file /PhillyGameJam/xcodetest/flex_sdk_4.0/frameworks/flex-config.xml/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level01.as(11): col: 3: Error: unable to resolve 'assets/sam_level1.txt' for transcoding		[Embed(source = "assets/sam_level1.txt", mimeType = "application/octet-stream")]  ^/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level01.as(11): col: 3: Error: Unable to transcode assets/sam_level1.txt.  ^/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level03.as(8): col: 3: Error: unable to resolve 'assets/nate_level3.txt' for transcoding		[Embed(source = "assets/nate_level3.txt", mimeType = "application/octet-stream")]  ^/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level03.as(8): col: 3: Error: Unable to transcode assets/nate_level3.txt.  ^Command /PhillyGameJam/xcodetest/flex_sdk_4.0/bin/mxmlc failed with exit code 412(13@92"Loading configuration file /PhillyGameJam/xcodetest/flex_sdk_4.0/frameworks/flex-config.xml326558536#0#92#0(1@0"0(13@133"/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level01.as(11): col: 3: Error: unable to resolve 'assets/sam_level1.txt' for transcoding326558540#92#133#0(1@0"0(13@83"		[Embed(source = "assets/sam_level1.txt", mimeType = "application/octet-stream")]326558540#226#83#0(1@0"0(13@4"  ^326558540#309#4#0(1@0"0(13@118"/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level01.as(11): col: 3: Error: Unable to transcode assets/sam_level1.txt.326558540#314#118#0(1@0"0(13@4"  ^326558540#434#4#0(1@0"0(13@133"/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level03.as(8): col: 3: Error: unable to resolve 'assets/nate_level3.txt' for transcoding326558540#439#133#0(1@0"0(13@84"		[Embed(source = "assets/nate_level3.txt", mimeType = "application/octet-stream")]326558540#573#84#0(1@0"0(13@4"  ^326558540#657#4#0(1@0"0(13@118"/PhillyGameJam/xcodetest/Ducks/Ducks/levels/Level03.as(8): col: 3: Error: Unable to transcode assets/nate_level3.txt.326558540#662#118#0(1@0"0(13@4"  ^326558540#782#4#0(1@0"0(4@79"Command /PhillyGameJam/xcodetest/flex_sdk_4.0/bin/mxmlc failed with exit code 4326558541#18446744073709551615#0#0(1@0"0(0#0#0"8599885824#167"    cd /PhillyGameJam/xcodetest/Ducks/Ducks    setenv ACTION     /PhillyGameJam/xcodetest/flex_sdk_4.0/bin/mxmlc -static-link-runtime-shared-libraries=true Ducks.as4#
+
